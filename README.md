@@ -51,4 +51,4 @@ Proyecto de Data Science enfocado en la detección de transacciones fraudulentas
 
 ---
 **Analista:** Maycon Castro  
-[LINK PARA SEU LINKEDIN] | [LINK PARA SEU PORTFÓLIO]
+[www.linkedin.com/in/maycon-castro] | [(https://maycon-castro-git.github.io/portfolio-maycon-castro/)]
